@@ -3,3 +3,5 @@ impar(_):-write('É par.'),nl.
 ######
 outra modificacao
 ######
+3a modificacao
+######
